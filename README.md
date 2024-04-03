@@ -15,6 +15,7 @@
 <p><a href="https://github.com/AgeOfUltra/BasicMVCdemo">click here see the my privious Demo on Spring MVC</a>It has detailed note.</p>
 
 <p>In this project we are doing the minimal configuration regarding the Configuration of the dispatched servlet and Enabling the WebMvcConfiguration</p>
+<p>You can compare the difference between this repo and my previous repo which I have mentioned above</p>
 
 
 
