@@ -1,6 +1,16 @@
 <h2>Demo of Spring MVC framework using Annotations!</h2>
 <strong>Description</strong>
 <p>The main purpose of this repo is another way of configuring the dispatcher servlet</p>
+
+<hr>
+<h3>Set up</h3>
+<ul>
+  <li>I used  intellij Idea for this small project! You can use eclips or any other IDE</li>
+  <li>Create a Maven Webapp Archetype </li>
+  <li>Setup tomcat in intellij </li>
+</ul>
+
+<hr>
 <ul>
   <li>index.jsp</li>
   <li>display.jsp</li>
